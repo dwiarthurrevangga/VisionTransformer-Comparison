@@ -59,11 +59,6 @@ Repositori ini berisi implementasi dan eksperimen komparatif dua model Vision Tr
 - File jawaban.csv untuk dataset test (hasil prediksi label final)
 - Model weights terbaik tiap arsitektur (`*.pth`)
 
-## Referensi
-- [DeiT (Data-efficient Image Transformers) - Touvron et al., 2020](https://arxiv.org/abs/2012.12877)
-- [Swin Transformer - Liu et al., 2021](https://arxiv.org/abs/2103.14030)
-- [timm library repo](https://github.com/huggingface/pytorch-image-models)
-
 ## Kontak
 - Nama: _Dwi Arthur Revangga_
 - NIM: _122140144_
